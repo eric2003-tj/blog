@@ -1,7 +1,7 @@
 ##########################################
 # 站點配置
 
-baseURL = "https://example.com/"
+baseURL = "https://eric2003-tj.github.io/blog/"
 title = "Hugo 主題 MemE"
 languageCode = "zh-TW"
 hasCJKLanguage = true
