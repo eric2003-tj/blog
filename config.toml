@@ -2,7 +2,7 @@
 # 站點配置
 
 baseURL = "https://eric2003-tj.github.io/blog/"
-title = "Hugo 主題 MemE"
+title = "eric2003"
 languageCode = "zh-TW"
 hasCJKLanguage = true
 # 版權資訊（支援 Markdown）
