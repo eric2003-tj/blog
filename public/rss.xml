@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo 主題 MemE</title>
+        <link>http://localhost:1313/</link>
+        <description>MemE 是一個強大且可高度定製的 GoHugo 部落格主題，專為個人部落格設計。</description>
+        <generator>Hugo 0.148.1 https://gohugo.io/</generator>
+        
+            <language>zh-TW</language>
+        
+        
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+        
+        
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 20 Jul 2025 20:02:09 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+        
+        
+            <item>
+                <title>hello world</title>
+                <link>http://localhost:1313/posts/hello-world/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/hello-world/</guid>
+                <pubDate>Sun, 20 Jul 2025 20:01:19 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                
+                <description>
+                        &lt;p&gt;This is a test.&lt;/p&gt;
+
+                        &lt;blockquote&gt;
+&lt;p&gt;閱讀原文：&lt;a href=&#34;http://localhost:1313/posts/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/hello-world/&lt;/a&gt;&lt;br&gt;
+網誌公告：網誌現已開通郵件訂閱，歡迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;透過 Substack 訂閱&lt;/a&gt;支援我的創作！&lt;/p&gt;&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
