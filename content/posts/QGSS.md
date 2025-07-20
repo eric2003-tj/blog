@@ -1,6 +1,6 @@
 +++
 date = '2025-07-20T20:51:06+08:00'
-draft = true
+draft = false
 title = 'Qiskit Global Summer School 心得'
 +++
 Qiskit Global Summer School 是 IBM 辦得關於量子計算的密集性暑期課程，為期兩週，課程內容主要包含量子計算的各領域研究及請各方大神來演講，然後把四個lab做完可以有IBM給的badge。由於管老強力推薦且我不怕暑假忙死就直接報名下去了：）。
