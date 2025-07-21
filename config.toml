@@ -2,7 +2,7 @@
 # 站點配置
 
 baseURL = "https://eric2003-tj.github.io/blog/"
-title = "eric2003"
+title = "eric2003-tj"
 languageCode = "zh-TW"
 hasCJKLanguage = true
 # 版權資訊（支援 Markdown）
@@ -1482,7 +1482,7 @@ uglyURLs = false
     # 作者資訊
     [params.author]
         # 名字
-        name = "eric2003"
+        name = "eric2003-tj"
         # 郵箱
         email = "eric.tj1026@gmail.com"
         # 座右銘或簡介
